@@ -56,10 +56,14 @@
 ## About The Project
 
 <!-- Img of project -->
-<img src="" />
+<img src="public/project-6.png" />
 
 ### Built With
 
+* ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
@@ -83,18 +87,17 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/Michaelplant2/Mimoville.git
    ```
-3. Install NPM packages
+2. Install NPM packages 
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Start NPM packages
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
@@ -102,6 +105,8 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- CONTRIBUTING -->
 ## Contributing
+This project was created with help from Cohort-12 of Mimo Dev. 
+Contributors include: Kelly, Brandy, Mayte, Rolando, and Gage
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -121,7 +126,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
