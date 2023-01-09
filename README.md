@@ -106,7 +106,8 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTRIBUTING -->
 ## Contributing
 This project was created with help from Cohort-12 of Mimo Dev. 
-Contributors include: Kelly, Brandy, Mayte, Rolando, and Gage
+<br>
+**Contributors include:** Kelly, Brandy, Mayte, Rolando, and Gage
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
